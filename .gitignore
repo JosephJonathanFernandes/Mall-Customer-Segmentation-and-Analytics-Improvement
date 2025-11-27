@@ -1,0 +1,46 @@
+# R environment
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Shiny
+rsconnect/
+shiny_bookmarks/
+
+# Output files
+*.csv
+*.xlsx
+*.pdf
+!Mall_Customers.csv
+!SGS_DA_MINI_PROJECT.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Package files
+*.tar.gz
+*.zip
+
+# System files
+desktop.ini
+.directory
+
+# Custom
+reports/
+exports/
+cache/
